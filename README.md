@@ -59,4 +59,3 @@
 
 `void dylo_clear_error(void)`  
 **Purpose**: Clear the current error state.
-```
